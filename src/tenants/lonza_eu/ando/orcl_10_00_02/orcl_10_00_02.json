@@ -1,0 +1,41 @@
+{
+    "settings": {
+        "particle_animation": false,
+        "panel_left": true,
+        "panel_right": false,
+        "panel_center": false,
+        "backgroundPanel": true,
+        "inject_css": {
+            "panelColor": "goldUniversal_panel_color_2"
+        },
+        "groupButtons": [
+            [
+                "panel_left",
+                "panel_right",
+                "panel_center"
+            ]
+        ]
+    },
+    "ost": {
+        "title_1": {
+            "text": "<p>Leading People at Oracle</p>",
+            "max_word": "10"
+        },
+        "subtitle_1": {
+            "text": "<p><br></p>",
+            "max_word": "10"
+        },
+        "body_1": {
+            "text": "<p>This course provides our managers with a foundational knowledge on leading people at Oracle and features key strategies for adhering to Oracle leadership standards.</p>",
+            "max_word": "60"
+        },
+        "transcript": {
+            "text": "<p>Welcome to your Leading People at Oracle training. </p>",
+            "max_word": "360"
+        }
+    },
+    "images": {
+        "bg_image_mobile": "t_intro_tl_mobile.jpg"
+    },
+    "src": "orcl_10_00_02"
+}

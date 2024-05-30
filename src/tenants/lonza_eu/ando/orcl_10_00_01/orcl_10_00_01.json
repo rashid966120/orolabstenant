@@ -1,0 +1,129 @@
+{
+    "settings": {
+        "videoBackground": true,
+        "show_dashboard": false,
+        "audioPlaysOnce": true
+    },
+    "ost": {
+        "title_1": {
+            "text": "<p>Course Menu</p>",
+            "max_word": "10"
+        },
+        "body_1": {
+            "text": "<p>We recommend completing these topics in sequential order.</p>",
+            "max_word": "30"
+        },
+        "button_txt_1": {
+            "text": "<p>Begin</p>",
+            "max_word": "30"
+        },
+        "button_txt_2": {
+            "text": "<p>Skip</p>",
+            "max_word": "30"
+        },
+        "button_txt_3": {
+            "text": "<p>Replay</p>",
+            "max_word": "30"
+        },
+        "transcript": {
+            "text": "<p>No transcript text to display.</p>",
+            "max_word": "360"
+        },
+        "dash_label_1": {
+            "text": "<p></p>",
+            "max_word": "10"
+        },
+        "dash_label_2": {
+            "text": "<p></p>",
+            "max_word": "30"
+        },
+        "dash_course_progress": {
+            "text": "<p>Learning Progress</p>",
+            "max_word": "5"
+        },
+        "dash_assessment_progress": {
+            "text": "<p>Assessment</p>",
+            "max_word": "5"
+        }
+    },
+    "items": [
+        {
+            "id": "orcl_10_00",
+            "item_txt": {
+                "text": "<p>Introduction</p>",
+                "max_word": "5"
+            },
+            "item_body": {
+                "text": "<p> </p>",
+                "max_word": "50"
+            }
+        },
+        {
+            "id": "orcl_10_01",
+            "item_txt": {
+                "text": "<p>At Oracle, we treat everyone with dignity and respect.</p>",
+                "max_word": "5"
+            },
+            "item_body": {
+                "text": "<p> </p>",
+                "max_word": "50"
+            }
+        },
+        {
+            "id": "orcl_10_02",
+            "item_txt": {
+                "text": "<p>At Oracle, we treat everyone fairly.</p>",
+                "max_word": "5"
+            },
+            "item_body": {
+                "text": "<p> </p>",
+                "max_word": "50"
+            }
+        },
+        {
+            "id": "orcl_10_03",
+            "item_txt": {
+                "text": "<p>At Oracle, we manage our biases.</p>",
+                "max_word": "5"
+            },
+            "item_body": {
+                "text": "<p> </p>",
+                "max_word": "50"
+            }
+        },
+        {
+            "id": "orcl_10_04",
+            "item_txt": {
+                "text": "<p>At Oracle, we make decisions fairly.</p>",
+                "max_word": "5"
+            },
+            "item_body": {
+                "text": "<p> </p>",
+                "max_word": "50"
+            }
+        },
+        {
+            "id": "orcl_10_05",
+            "item_txt": {
+                "text": "<p>At Oracle, we pursue understanding.</p>",
+                "max_word": "5"
+            },
+            "item_body": {
+                "text": "<p> </p>",
+                "max_word": "50"
+            }
+        },
+        {
+            "id": "orcl_10_06",
+            "item_txt": {
+                "text": "<p>Summary and Key Takeaways</p>",
+                "max_word": "5"
+            },
+            "item_body": {
+                "text": "<p> </p>",
+                "max_word": "50"
+            }
+        }
+    ],
+    "src": "orcl_10_00_01"
+}
